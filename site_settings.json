@@ -13,6 +13,46 @@
                 "filetype": ""
             },
             "levels": {
+                "clssrm(1)": {
+                    "level_name": "期末必考題(1)",
+                    "location": {
+                        "location_height": "B1",
+                        "location_name": "教室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["4:12"],
+                        "passwords_hash_value": ["9d6057e3b3d8b9f197ecf1fdf0ff41fd85ceb496"],
+                        "passwords_pattern_check": ["[0-9]{1,2}[:]{1}[0-9]{1,2}"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "交惡",
+                            "video_sub_title": "校園篇"
+                        },
+                        "video_youtube_id": "GNNg1kC-g4w"
+                    }
+                },
+                "clssrm(2)": {
+                    "level_name": "期末必考題(2)",
+                    "location": {
+                        "location_height": "B1",
+                        "location_name": "教室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["BEIGAN"],
+                        "passwords_hash_value": ["cef4069ca8fd285669610edea05566efef89215e"],
+                        "passwords_pattern_check": ["[A-Z]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "紀錄",
+                            "video_sub_title": "校園篇"
+                        },
+                        "video_youtube_id": "YCxa6ZKTYoE"
+                    }
+                },
                 "bsktbl(2)": {
                     "level_name": "奇怪的表",
                     "location": {
@@ -31,6 +71,206 @@
                             "video_sub_title": "信仰篇"
                         },
                         "video_youtube_id": "srzogkTBkTI"
+                    }
+                },
+                "office": {
+                    "level_name": "顏色密碼",
+                    "location": {
+                        "location_height": "1F",
+                        "location_name": "辦公室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["54878"],
+                        "passwords_hash_value": ["c64bf60df59d650530c87777a0cb5e482b0532f3"],
+                        "passwords_pattern_check": ["[0-9]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "職場",
+                            "video_sub_title": "職場篇"
+                        },
+                        "video_youtube_id": "7tpWiehnwWs"
+                    }
+                }
+            }
+        },
+        "p2": {
+            "path_name": "人際事業",
+            "icon": "",
+            "question_sheet_imgur_link": {
+                "id": "",
+                "filetype": ""
+            },
+            "levels": {
+                "clssrm(1)": {
+                    "level_name": "期末必考題(1)",
+                    "location": {
+                        "location_height": "B1",
+                        "location_name": "教室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["4:12"],
+                        "passwords_hash_value": ["9d6057e3b3d8b9f197ecf1fdf0ff41fd85ceb496"],
+                        "passwords_pattern_check": ["[0-9]{1,2}[:]{1}[0-9]{1,2}"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "交惡",
+                            "video_sub_title": "校園篇"
+                        },
+                        "video_youtube_id": "GNNg1kC-g4w"
+                    }
+                },
+                "clssrm(2)": {
+                    "level_name": "期末必考題(2)",
+                    "location": {
+                        "location_height": "B1",
+                        "location_name": "教室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["BEIGAN"],
+                        "passwords_hash_value": ["cef4069ca8fd285669610edea05566efef89215e"],
+                        "passwords_pattern_check": ["[A-Z]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "紀錄",
+                            "video_sub_title": "校園篇"
+                        },
+                        "video_youtube_id": "YCxa6ZKTYoE"
+                    }
+                },
+                "bsktbl(2)": {
+                    "level_name": "奇怪的表",
+                    "location": {
+                        "location_height": "1F",
+                        "location_name": "籃球場"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 2,
+                        "passwords_raw": ["69632", "47863"],
+                        "passwords_hash_value": ["983ccb1526c87e46637f0c2fe97cf8b85e466efc", "a6571f80da341254483814b2b0760da29178c6ed"],
+                        "passwords_pattern_check": ["[0-9]+", "[0-9]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "飯局",
+                            "video_sub_title": "信仰篇"
+                        },
+                        "video_youtube_id": "srzogkTBkTI"
+                    }
+                },
+                "office": {
+                    "level_name": "顏色密碼",
+                    "location": {
+                        "location_height": "1F",
+                        "location_name": "辦公室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["54878"],
+                        "passwords_hash_value": ["c64bf60df59d650530c87777a0cb5e482b0532f3"],
+                        "passwords_pattern_check": ["[0-9]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "職場",
+                            "video_sub_title": "職場篇"
+                        },
+                        "video_youtube_id": "7tpWiehnwWs"
+                    }
+                }
+            }
+        },
+        "p3": {
+            "path_name": "人際事業",
+            "icon": "",
+            "question_sheet_imgur_link": {
+                "id": "",
+                "filetype": ""
+            },
+            "levels": {
+                "clssrm(1)": {
+                    "level_name": "期末必考題(1)",
+                    "location": {
+                        "location_height": "B1",
+                        "location_name": "教室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["4:12"],
+                        "passwords_hash_value": ["9d6057e3b3d8b9f197ecf1fdf0ff41fd85ceb496"],
+                        "passwords_pattern_check": ["[0-9]{1,2}[:]{1}[0-9]{1,2}"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "交惡",
+                            "video_sub_title": "校園篇"
+                        },
+                        "video_youtube_id": "GNNg1kC-g4w"
+                    }
+                },
+                "clssrm(2)": {
+                    "level_name": "期末必考題(2)",
+                    "location": {
+                        "location_height": "B1",
+                        "location_name": "教室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["BEIGAN"],
+                        "passwords_hash_value": ["cef4069ca8fd285669610edea05566efef89215e"],
+                        "passwords_pattern_check": ["[A-Z]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "紀錄",
+                            "video_sub_title": "校園篇"
+                        },
+                        "video_youtube_id": "YCxa6ZKTYoE"
+                    }
+                },
+                "bsktbl(2)": {
+                    "level_name": "奇怪的表",
+                    "location": {
+                        "location_height": "1F",
+                        "location_name": "籃球場"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 2,
+                        "passwords_raw": ["69632", "47863"],
+                        "passwords_hash_value": ["983ccb1526c87e46637f0c2fe97cf8b85e466efc", "a6571f80da341254483814b2b0760da29178c6ed"],
+                        "passwords_pattern_check": ["[0-9]+", "[0-9]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "飯局",
+                            "video_sub_title": "信仰篇"
+                        },
+                        "video_youtube_id": "srzogkTBkTI"
+                    }
+                },
+                "office": {
+                    "level_name": "顏色密碼",
+                    "location": {
+                        "location_height": "1F",
+                        "location_name": "辦公室"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 1,
+                        "passwords_raw": ["54878"],
+                        "passwords_hash_value": ["c64bf60df59d650530c87777a0cb5e482b0532f3"],
+                        "passwords_pattern_check": ["[0-9]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "職場",
+                            "video_sub_title": "職場篇"
+                        },
+                        "video_youtube_id": "7tpWiehnwWs"
                     }
                 }
             }
