@@ -1,0 +1,39 @@
+{
+    "project_title": "彼記",
+    "wifi": {
+        "name": "Hwaining_Guest",
+        "password": "19560513oo"
+    },
+    "paths": {
+        "p1": {
+            "path_name": "人際事業",
+            "icon": "",
+            "question_sheet_imgur_link": {
+                "id": "",
+                "filetype": ""
+            },
+            "levels": {
+                "bsktbl(2)": {
+                    "level_name": "奇怪的表",
+                    "location": {
+                        "location_height": "1F",
+                        "location_name": "籃球場"
+                    },
+                    "password_protection_settings": {
+                        "passwords_nums": 2,
+                        "passwords_raw": ["69632", "47863"],
+                        "passwords_hash_value": ["983ccb1526c87e46637f0c2fe97cf8b85e466efc", "a6571f80da341254483814b2b0760da29178c6ed"],
+                        "passwords_pattern_check": ["[0-9]+", "[0-9]+"]
+                    },
+                    "video_page_settings": {
+                        "video_title": {
+                            "video_main_title": "飯局",
+                            "video_sub_title": "信仰篇"
+                        },
+                        "video_youtube_id": "srzogkTBkTI"
+                    }
+                }
+            }
+        }
+    }
+}
