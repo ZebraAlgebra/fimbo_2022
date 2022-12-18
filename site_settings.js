@@ -1,3 +1,4 @@
+"use strict";
 const video_link_data = {
     "p1": {
         "bsktbl(2)": "srzogkTBkTI",
@@ -16,3 +17,13 @@ const video_link_data = {
         "ptroom(2)": "Av8Xw-SDP2M",
     },
 };
+
+const player_guide_pictures = {
+    "question_sheet": {
+        "p1": "cjIeVWb.jpg",
+        "p2": "ya24Pip.jpg",
+        "p3": "Upk9KbH.jpg",
+    },
+    "location_sheet": "DNT65IF.jpeg",
+    "relation_sheet": "9EdPSzG.jpg",
+}
